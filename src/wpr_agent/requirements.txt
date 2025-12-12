@@ -1,0 +1,2 @@
+﻿# wpr_agent uses the workspace root dependency set
+-r ../requirements.txt

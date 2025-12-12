@@ -1,0 +1,5 @@
+Delta Apply 20251204T212934Z mode=online
+Totals: orders=0 changed=0 created=0 updated=0 warnings=3 failures=0 retries=0
+- CBAM [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Open MSS [None]: orders=3 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- SDL [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0

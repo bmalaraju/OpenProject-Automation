@@ -1,0 +1,41 @@
+{
+  "batch_id": "backfill-test-1",
+  "timestamp": "2025-11-29T12:42:41.566964",
+  "summary": {
+    "total_orders_found": 3370,
+    "processed": 0,
+    "skipped": 0,
+    "errors": 1,
+    "args": {
+      "file": "08.21.WP Orders_21-08-2025_v01 (2).xlsx",
+      "sheet": "WP_Overall_Order_Report",
+      "batch_id": "backfill-test-1",
+      "project_key": null,
+      "dry_run": false,
+      "skip_ingest": true,
+      "filter_existing": false,
+      "ingest_only": false,
+      "limit": 0,
+      "order_id": "WPO00098660"
+    }
+  },
+  "details": [
+    {
+      "order_id": "WPO00098660",
+      "product": "Flow One",
+      "status": "failed",
+      "errors": [
+        "Epic update failed for BP WPO00098660: {'_type': 'Error', 'errorIdentifier': 'urn:openproject-org:api:v3:errors:NotFound', 'message': 'The work package you are looking for cannot be found or has been deleted.'}",
+        "Story create failed 'WPO00098660-1': {'_type': 'Error', 'errorIdentifier': 'urn:openproject-org:api:v3:errors:PropertyConstraintViolation', 'message': 'Parent does not exist.', '_embedded': {'details': {'attribute': 'parent'}}}",
+        "Story create failed 'WPO00098660-2': {'_type': 'Error', 'errorIdentifier': 'urn:openproject-org:api:v3:errors:PropertyConstraintViolation', 'message': 'Parent does not exist.', '_embedded': {'details': {'attribute': 'parent'}}}",
+        "Story create failed 'WPO00098660-3': {'_type': 'Error', 'errorIdentifier': 'urn:openproject-org:api:v3:errors:PropertyConstraintViolation', 'message': 'Parent does not exist.', '_embedded': {'details': {'attribute': 'parent'}}}",
+        "Story create failed 'WPO00098660-4': {'_type': 'Error', 'errorIdentifier': 'urn:openproject-org:api:v3:errors:PropertyConstraintViolation', 'message': 'Parent does not exist.', '_embedded': {'details': {'attribute': 'parent'}}}",
+        "Story create failed 'WPO00098660-5': {'_type': 'Error', 'errorIdentifier': 'urn:openproject-org:api:v3:errors:PropertyConstraintViolation', 'message': 'Parent does not exist.', '_embedded': {'details': {'attribute': 'parent'}}}"
+      ],
+      "warnings": [],
+      "created": {},
+      "updated": [],
+      "project_key": "FlowOne"
+    }
+  ]
+}

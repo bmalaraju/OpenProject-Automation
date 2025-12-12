@@ -1,0 +1,36 @@
+{
+  "batch_id": "backfill-test-1",
+  "timestamp": "2025-11-29T13:26:42.740026",
+  "summary": {
+    "total_orders_found": 3370,
+    "processed": 0,
+    "skipped": 0,
+    "errors": 1,
+    "args": {
+      "file": "08.21.WP Orders_21-08-2025_v01 (2).xlsx",
+      "sheet": "WP_Overall_Order_Report",
+      "batch_id": "backfill-test-1",
+      "project_key": null,
+      "dry_run": false,
+      "skip_ingest": true,
+      "filter_existing": false,
+      "ingest_only": false,
+      "limit": 0,
+      "order_id": "WPO00098660"
+    }
+  },
+  "details": [
+    {
+      "order_id": "WPO00098660",
+      "product": "Flow One",
+      "status": "failed",
+      "errors": [
+        "Epic update failed for BP WPO00098660: {'_type': 'Error', 'errorIdentifier': 'urn:openproject-org:api:v3:errors:PropertyConstraintViolation', 'message': \"WPR WP Order Status can't be blank.\", '_embedded': {'details': {'attribute': 'customField10'}}}"
+      ],
+      "warnings": [],
+      "created": {},
+      "updated": [],
+      "project_key": "FlowOne"
+    }
+  ]
+}

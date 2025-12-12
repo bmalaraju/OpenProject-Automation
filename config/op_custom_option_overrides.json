@@ -1,0 +1,22 @@
+{
+  "customField10": {
+    "Pending Acknowledgement": "/api/v3/custom_options/1",
+    "Acknowledged": "/api/v3/custom_options/2",
+    "Pending Approval": "/api/v3/custom_options/3",
+    "Approved": "/api/v3/custom_options/4",
+    "Objected": "/api/v3/custom_options/5",
+    "Rejected": "/api/v3/custom_options/8",
+    "Cancelled": "/api/v3/custom_options/6",
+    "Waiting for order submission": "/api/v3/custom_options/7"
+  },
+  "WPR WP Order Status": {
+    "Pending Acknowledgement": "/api/v3/custom_options/1",
+    "Acknowledged": "/api/v3/custom_options/2",
+    "Pending Approval": "/api/v3/custom_options/3",
+    "Approved": "/api/v3/custom_options/4",
+    "Objected": "/api/v3/custom_options/5",
+    "Rejected": "/api/v3/custom_options/8",
+    "Cancelled": "/api/v3/custom_options/6",
+    "Waiting for order submission": "/api/v3/custom_options/7"
+  }
+}

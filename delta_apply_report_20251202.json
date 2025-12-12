@@ -1,0 +1,2870 @@
+{
+  "run_id": "20251202T162820Z",
+  "mode": {
+    "online": true,
+    "dry_run": false
+  },
+  "domains": [
+    {
+      "domain": "",
+      "project_key": null,
+      "order_count": 4,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product ''"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "3UK-CNS-Sustainability 2026 - Telco Cloud Core",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product '3UK-CNS-Sustainability 2026 - Telco Cloud Core'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "3UK-Demand Services Team - WP03",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product '3UK-Demand Services Team - WP03'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "3UK-Lab Maintenance - WP04",
+      "project_key": null,
+      "order_count": 10,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product '3UK-Lab Maintenance - WP04'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "3UK-Lannion Lab Maintenance",
+      "project_key": null,
+      "order_count": 7,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product '3UK-Lannion Lab Maintenance'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "3UK-RO-077 - Roaming FW Capacity Expansion",
+      "project_key": null,
+      "order_count": 3,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product '3UK-RO-077 - Roaming FW Capacity Expansion'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "3UK-RO-134 - Farnborough Pre-Prod Hardware Swap out",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product '3UK-RO-134 - Farnborough Pre-Prod Hardware Swap out'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "3UK-Telco Cloud NVF transitioning to Clavister",
+      "project_key": null,
+      "order_count": 6,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product '3UK-Telco Cloud NVF transitioning to Clavister'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "3rd Party Services",
+      "project_key": null,
+      "order_count": 14,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product '3rd Party Services'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "5G EIR",
+      "project_key": null,
+      "order_count": 9,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product '5G EIR'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "7750- MG",
+      "project_key": null,
+      "order_count": 44,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product '7750- MG'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "8650 SDM",
+      "project_key": null,
+      "order_count": 21,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product '8650 SDM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "AAA",
+      "project_key": null,
+      "order_count": 301,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'AAA'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "AAA Customization",
+      "project_key": null,
+      "order_count": 3,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'AAA Customization'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "ACF/IWF",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'ACF/IWF'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "AEP / ExP",
+      "project_key": null,
+      "order_count": 30,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'AEP / ExP'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "AMF",
+      "project_key": null,
+      "order_count": 7,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'AMF'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "AOR, SURE, NPM",
+      "project_key": null,
+      "order_count": 9,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'AOR, SURE, NPM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "AVA EE",
+      "project_key": null,
+      "order_count": 5,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'AVA EE'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Ansible Playbooks Development and Delivery",
+      "project_key": null,
+      "order_count": 15,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Ansible Playbooks Development and Delivery'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Automation",
+      "project_key": null,
+      "order_count": 52,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Automation'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "BMC (Broadcast Messaging Centre)",
+      "project_key": null,
+      "order_count": 4,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'BMC (Broadcast Messaging Centre)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "BQR (Business Query Repository)",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'BQR (Business Query Repository)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "BT UK",
+      "project_key": null,
+      "order_count": 3,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'BT UK'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CADM (Central Analytics and Data Management)",
+      "project_key": null,
+      "order_count": 8,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CADM (Central Analytics and Data Management)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CBAM",
+      "project_key": null,
+      "order_count": 363,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CBAM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CBAM,CBIS",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CBAM,CBIS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CBIS",
+      "project_key": null,
+      "order_count": 769,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CBIS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CBIS, NCS, CBAM, NCOM, NCD",
+      "project_key": null,
+      "order_count": 26,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CBIS, NCS, CBAM, NCOM, NCD'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CBIS/NCS",
+      "project_key": null,
+      "order_count": 7,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CBIS/NCS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CBND/NCOM",
+      "project_key": null,
+      "order_count": 26,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CBND/NCOM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CFX-5000",
+      "project_key": null,
+      "order_count": 814,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CFX-5000'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CFX-5001",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CFX-5001'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CFX-5002",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CFX-5002'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CFX-5003",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CFX-5003'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CFX-5004",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CFX-5004'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CFX-5005",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CFX-5005'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CFX-5006",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CFX-5006'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CFX-5007",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CFX-5007'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CFX-5008",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CFX-5008'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CFX-5009",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CFX-5009'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CFX-5010",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CFX-5010'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CI",
+      "project_key": null,
+      "order_count": 153,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CI'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CMG",
+      "project_key": null,
+      "order_count": 3,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CMG'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CMG (Cloud Mobile Gateway)",
+      "project_key": null,
+      "order_count": 717,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CMG (Cloud Mobile Gateway)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CMG_CPC SGW_PGW",
+      "project_key": null,
+      "order_count": 7,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CMG_CPC SGW_PGW'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CMM (Cloud Mobility Manager)",
+      "project_key": null,
+      "order_count": 837,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CMM (Cloud Mobility Manager)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CMM_AMF_MME_SGSN",
+      "project_key": null,
+      "order_count": 6,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CMM_AMF_MME_SGSN'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CNCS",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CNCS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "CSD",
+      "project_key": null,
+      "order_count": 1125,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'CSD'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Chorus",
+      "project_key": null,
+      "order_count": 4,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Chorus'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Cloud Native Communication Suite (CNCS) - CSCF, TAS, A-SBC, MRF",
+      "project_key": null,
+      "order_count": 153,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Cloud Native Communication Suite (CNCS) - CSCF, TAS, A-SBC, MRF'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Cosmote NDL Ph2",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Cosmote NDL Ph2'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Cust SW IWSF (IMS Web Security Function)",
+      "project_key": null,
+      "order_count": 9,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Cust SW IWSF (IMS Web Security Function)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Cust SW vMTK Virtual Migration tool",
+      "project_key": null,
+      "order_count": 39,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Cust SW vMTK Virtual Migration tool'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Custom Application",
+      "project_key": null,
+      "order_count": 28,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Custom Application'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Custom Server",
+      "project_key": null,
+      "order_count": 27,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Custom Server'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Custom Solution",
+      "project_key": null,
+      "order_count": 9,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Custom Solution'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Customer Insights (CI) Services",
+      "project_key": null,
+      "order_count": 6,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Customer Insights (CI) Services'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Customization",
+      "project_key": null,
+      "order_count": 9,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Customization'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Cyberdome",
+      "project_key": null,
+      "order_count": 7,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Cyberdome'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "DIGI BELGIUM",
+      "project_key": null,
+      "order_count": 6,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'DIGI BELGIUM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "DIGI Romania",
+      "project_key": null,
+      "order_count": 3,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'DIGI Romania'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "DRA",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'DRA'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "DVM  Deployment VM",
+      "project_key": null,
+      "order_count": 11,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'DVM  Deployment VM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Data Products",
+      "project_key": null,
+      "order_count": 55,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Data Products'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "EIR",
+      "project_key": null,
+      "order_count": 356,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'EIR'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "ETL",
+      "project_key": null,
+      "order_count": 23,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'ETL'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "ETL (Extract Transfer Load)",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'ETL (Extract Transfer Load)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Enea iNUM (ENUM)",
+      "project_key": null,
+      "order_count": 6,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Enea iNUM (ENUM)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "FEE Servlet",
+      "project_key": null,
+      "order_count": 8,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'FEE Servlet'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "FN Insight",
+      "project_key": null,
+      "order_count": 20,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'FN Insight'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "FNI",
+      "project_key": null,
+      "order_count": 57,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'FNI'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "FNI (HAL, ANA)",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'FNI (HAL, ANA)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "FO",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'FO'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Flow One",
+      "project_key": "FlowOne",
+      "order_count": 4,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "domain": "FlowOne",
+      "project_key": "FlowOne",
+      "order_count": 759,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "domain": "FlowOne Services",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'FlowOne Services'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Flowone",
+      "project_key": "FlowOne",
+      "order_count": 296,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "domain": "GS/CPC (Gold Standard/Configurable Parameter Customization)",
+      "project_key": null,
+      "order_count": 15,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'GS/CPC (Gold Standard/Configurable Parameter Customization)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "GSAT (Gold Standard Audit Services)",
+      "project_key": null,
+      "order_count": 29,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'GSAT (Gold Standard Audit Services)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "GSCM (Gold Standard Config Management)",
+      "project_key": null,
+      "order_count": 11,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'GSCM (Gold Standard Config Management)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Gold Standard Configuration Manager (GSCM)",
+      "project_key": null,
+      "order_count": 32,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Gold Standard Configuration Manager (GSCM)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "HLR",
+      "project_key": null,
+      "order_count": 167,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'HLR'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "HSM",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'HSM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "HSMBox",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'HSMBox'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "HSS",
+      "project_key": null,
+      "order_count": 1035,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'HSS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "HSS-HLR",
+      "project_key": null,
+      "order_count": 229,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'HSS-HLR'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "HT UDM manual testing",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'HT UDM manual testing'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "IIJ_CNF",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'IIJ_CNF'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "INFRA",
+      "project_key": null,
+      "order_count": 1154,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'INFRA'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Incident Management",
+      "project_key": null,
+      "order_count": 5,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Incident Management'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "LE CMM (Cloud Mobility Manager)",
+      "project_key": null,
+      "order_count": 4,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'LE CMM (Cloud Mobility Manager)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "MALS - NSR migration testing",
+      "project_key": null,
+      "order_count": 16,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'MALS - NSR migration testing'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "MME",
+      "project_key": null,
+      "order_count": 15,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'MME'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "MMTEL",
+      "project_key": null,
+      "order_count": 145,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'MMTEL'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "MMTel",
+      "project_key": null,
+      "order_count": 9,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'MMTel'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "MN Insights",
+      "project_key": null,
+      "order_count": 40,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'MN Insights'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "MNI (CNI)",
+      "project_key": null,
+      "order_count": 3,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'MNI (CNI)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "MNP",
+      "project_key": null,
+      "order_count": 30,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'MNP'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "MSS",
+      "project_key": null,
+      "order_count": 5,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'MSS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Magyar",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Magyar'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Magyar Telekom",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Magyar Telekom'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Mediation",
+      "project_key": null,
+      "order_count": 610,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Mediation'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NA-C",
+      "project_key": null,
+      "order_count": 14,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NA-C'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NA-C/NA-F",
+      "project_key": null,
+      "order_count": 6,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NA-C/NA-F'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NA-F",
+      "project_key": null,
+      "order_count": 13,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NA-F'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NA-F/NA-C",
+      "project_key": null,
+      "order_count": 23,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NA-F/NA-C'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NAC",
+      "project_key": null,
+      "order_count": 386,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NAC'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NACM",
+      "project_key": null,
+      "order_count": 65,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NACM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NACandUiV",
+      "project_key": null,
+      "order_count": 6,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NACandUiV'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NCC",
+      "project_key": null,
+      "order_count": 902,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NCC'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NCD",
+      "project_key": null,
+      "order_count": 350,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NCD'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NCLM",
+      "project_key": null,
+      "order_count": 19,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NCLM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NCM",
+      "project_key": null,
+      "order_count": 18,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NCM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NCM, NCLM",
+      "project_key": null,
+      "order_count": 25,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NCM, NCLM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NCOM",
+      "project_key": null,
+      "order_count": 739,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NCOM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NCP",
+      "project_key": null,
+      "order_count": 102,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NCP'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NCS",
+      "project_key": null,
+      "order_count": 945,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NCS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NDS",
+      "project_key": null,
+      "order_count": 62,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NDS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NEDR",
+      "project_key": null,
+      "order_count": 32,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NEDR'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NES, NEDR",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NES, NEDR'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NIAM",
+      "project_key": "NIAM",
+      "order_count": 257,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "domain": "NIAM, NACM",
+      "project_key": null,
+      "order_count": 66,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NIAM, NACM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NIAS",
+      "project_key": null,
+      "order_count": 17,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NIAS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NOKIA TAS MCS",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NOKIA TAS MCS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NORC",
+      "project_key": null,
+      "order_count": 8,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NORC'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NOrC",
+      "project_key": null,
+      "order_count": 157,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NOrC'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NPC",
+      "project_key": null,
+      "order_count": 24,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NPC'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NPC plugin",
+      "project_key": null,
+      "order_count": 13,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NPC plugin'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NSD",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NSD'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NSMC",
+      "project_key": null,
+      "order_count": 44,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NSMC'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NWR (Network Repository)",
+      "project_key": null,
+      "order_count": 113,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NWR (Network Repository)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NetGuard Cybersecurity Dome (NCYD) Services",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NetGuard Cybersecurity Dome (NCYD) Services'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NetNumber Titan (ENUM/Ut-Proxy)",
+      "project_key": null,
+      "order_count": 501,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NetNumber Titan (ENUM/Ut-Proxy)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Netnumber",
+      "project_key": null,
+      "order_count": 136,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Netnumber'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "NoRC",
+      "project_key": null,
+      "order_count": 4,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'NoRC'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Nokia Assurance Center (NAC) Services",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Nokia Assurance Center (NAC) Services'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Nokia Converged Charging (NCC) Services",
+      "project_key": null,
+      "order_count": 18,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Nokia Converged Charging (NCC) Services'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Nokia Mediation Services",
+      "project_key": null,
+      "order_count": 225,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Nokia Mediation Services'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Nokia NEF (NMP)",
+      "project_key": null,
+      "order_count": 132,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Nokia NEF (NMP)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Nokia NRD (NRF,NSSF)",
+      "project_key": null,
+      "order_count": 132,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Nokia NRD (NRF,NSSF)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Nokia Policy Controller (NPC)",
+      "project_key": null,
+      "order_count": 1541,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Nokia Policy Controller (NPC)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Nokia Policy Coroller (NPC)",
+      "project_key": null,
+      "order_count": 179,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Nokia Policy Coroller (NPC)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Nokia SMSF",
+      "project_key": null,
+      "order_count": 78,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Nokia SMSF'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Nokia TAS",
+      "project_key": null,
+      "order_count": 1106,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Nokia TAS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Nokia TAS BCS",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Nokia TAS BCS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Nokia TAS MCS",
+      "project_key": null,
+      "order_count": 12,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Nokia TAS MCS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Norlys NLS",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Norlys NLS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Not Applicable",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Not Applicable'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Not Available",
+      "project_key": null,
+      "order_count": 231,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Not Available'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "One EIR",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'One EIR'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "One NDS",
+      "project_key": null,
+      "order_count": 48,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'One NDS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "OneNDS",
+      "project_key": null,
+      "order_count": 47,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'OneNDS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "OneNDS+SDLPGw",
+      "project_key": null,
+      "order_count": 22,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'OneNDS+SDLPGw'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Open MGW",
+      "project_key": null,
+      "order_count": 61,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Open MGW'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Open MSS",
+      "project_key": null,
+      "order_count": 436,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Open MSS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "PART",
+      "project_key": null,
+      "order_count": 9,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'PART'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "PART (SIM Pre-provisioning Audit and Re-Sync)",
+      "project_key": null,
+      "order_count": 18,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'PART (SIM Pre-provisioning Audit and Re-Sync)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "PARTS",
+      "project_key": null,
+      "order_count": 7,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'PARTS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "PAS (Parameterized Audit Services)",
+      "project_key": null,
+      "order_count": 26,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'PAS (Parameterized Audit Services)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "PLF (PCRF Location Function)",
+      "project_key": null,
+      "order_count": 9,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'PLF (PCRF Location Function)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Presence",
+      "project_key": null,
+      "order_count": 12,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Presence'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "RadiSys MRF",
+      "project_key": null,
+      "order_count": 48,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'RadiSys MRF'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Radisys MRF",
+      "project_key": null,
+      "order_count": 326,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Radisys MRF'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "RadisysMRF",
+      "project_key": null,
+      "order_count": 61,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'RadisysMRF'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Rakuten Disaster Roaming_S&SP",
+      "project_key": null,
+      "order_count": 4,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Rakuten Disaster Roaming_S&SP'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Registers,HSS/HLR",
+      "project_key": null,
+      "order_count": 51,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Registers,HSS/HLR'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "RevuRight-CAS",
+      "project_key": null,
+      "order_count": 4,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'RevuRight-CAS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "SBC",
+      "project_key": null,
+      "order_count": 485,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'SBC'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "SCP",
+      "project_key": null,
+      "order_count": 3,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'SCP'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "SDL",
+      "project_key": null,
+      "order_count": 367,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'SDL'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "SDL Custom",
+      "project_key": null,
+      "order_count": 17,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'SDL Custom'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "SDL-PGW",
+      "project_key": null,
+      "order_count": 788,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'SDL-PGW'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "SDM",
+      "project_key": null,
+      "order_count": 360,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'SDM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "SI TS",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'SI TS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "SKY UK",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'SKY UK'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "SMSF",
+      "project_key": null,
+      "order_count": 4,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'SMSF'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Session Border Controller",
+      "project_key": "Session Border Controller",
+      "order_count": 1182,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "domain": "Session Border Controller(SBC)",
+      "project_key": null,
+      "order_count": 9,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Session Border Controller(SBC)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Shared Data layer (UDR, UDSF)",
+      "project_key": null,
+      "order_count": 79,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Shared Data layer (UDR, UDSF)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Sky UK 5G SA",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Sky UK 5G SA'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Spring2 Reloaded_OneNZ",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Spring2 Reloaded_OneNZ'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Subscriber Data  Bulk Migration Tool",
+      "project_key": null,
+      "order_count": 353,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Subscriber Data  Bulk Migration Tool'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "SurePay",
+      "project_key": null,
+      "order_count": 85,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'SurePay'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Surepay",
+      "project_key": null,
+      "order_count": 28,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Surepay'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Sustainability",
+      "project_key": null,
+      "order_count": 16,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Sustainability'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "TAF",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'TAF'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "TDG LOT1 KPI",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'TDG LOT1 KPI'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "TDG LOT3",
+      "project_key": null,
+      "order_count": 4,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'TDG LOT3'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "TDG_LOT2_Subscriber Counting Tool",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'TDG_LOT2_Subscriber Counting Tool'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "TMO Audit Tool",
+      "project_key": null,
+      "order_count": 7,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'TMO Audit Tool'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "TMO EIR TAC Tool",
+      "project_key": null,
+      "order_count": 6,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'TMO EIR TAC Tool'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "TMO MARS Tool",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'TMO MARS Tool'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "TMO Mars Tool",
+      "project_key": null,
+      "order_count": 15,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'TMO Mars Tool'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "TPM",
+      "project_key": null,
+      "order_count": 73,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'TPM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Telemach",
+      "project_key": null,
+      "order_count": 5,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Telemach'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Telenet",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Telenet'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Telia Phase2",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Telia Phase2'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Telia TAF/CCTF",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Telia TAF/CCTF'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Testing Solution",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Testing Solution'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Testing Solutions",
+      "project_key": null,
+      "order_count": 480,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Testing Solutions'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "Traffica",
+      "project_key": null,
+      "order_count": 19,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'Traffica'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "UDM",
+      "project_key": null,
+      "order_count": 698,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'UDM'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "UIV",
+      "project_key": null,
+      "order_count": 436,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'UIV'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "VF DE Volte Consumer 24.7",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'VF DE Volte Consumer 24.7'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "VF DE Volte Enterprise 24.7",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'VF DE Volte Enterprise 24.7'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "VF Italy",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'VF Italy'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "VF Italy MRF",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'VF Italy MRF'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "VF Italy POSTE",
+      "project_key": null,
+      "order_count": 1,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'VF Italy POSTE'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "VMR (Voice Mail Routing)",
+      "project_key": null,
+      "order_count": 30,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'VMR (Voice Mail Routing)'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "VoLTE",
+      "project_key": null,
+      "order_count": 343,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'VoLTE'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "_Solution Level_",
+      "project_key": null,
+      "order_count": 152,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product '_Solution Level_'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "ePDG",
+      "project_key": null,
+      "order_count": 14,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'ePDG'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "fCaaS",
+      "project_key": null,
+      "order_count": 44,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'fCaaS'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "g",
+      "project_key": null,
+      "order_count": 2,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'g'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "hss",
+      "project_key": null,
+      "order_count": 4,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'hss'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "na",
+      "project_key": null,
+      "order_count": 25,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'na'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "sdl",
+      "project_key": null,
+      "order_count": 10,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'sdl'"
+      ],
+      "failures": []
+    },
+    {
+      "domain": "udm",
+      "project_key": null,
+      "order_count": 6,
+      "changed": 0,
+      "created_epics": [],
+      "created_stories": [],
+      "updated": [],
+      "warnings": [
+        "No project mapping for product 'udm'"
+      ],
+      "failures": []
+    }
+  ],
+  "totals": {
+    "orders": 2498,
+    "orders_changed": 0,
+    "created": 0,
+    "updated": 0,
+    "warnings": 215,
+    "failures": 0,
+    "retries": 0,
+    "dropped_assignees": 0
+  },
+  "ended_at": "2025-12-02T16:31:38.550510+00:00"
+}

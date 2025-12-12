@@ -1,0 +1,40 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# OS files
+.DS_Store
+
+# Env files / secrets
+.env
+*.env.local
+*.env.*.local
+agent_v2/config/jira_oauth_tokens.json
+agent_v2/config/working_jira_config.json
+agent_v2/config/op_oauth_tokens.json
+agent_v2/config/*tokens*.json
+
+# Tokens / sample secrets
+jira_oauth_tokens.json
+jira_agent_prototype/config/jira_oauth_tokens.json
+jira_agent_prototype/config/working_jira_config.json
+
+# Test artifacts
+.pytest_cache/
+
+work_packages.xlsx
+
+# Project artifacts and temp outputs
+artifacts/
+tmp_router/
+*.num
+tmp_*
+wp-jira-agent/wp_jira_agent.egg-info/
+*.xlsx
+src/wp-jira-agent

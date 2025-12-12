@@ -1,0 +1,222 @@
+Delta Apply 20251202T162820Z mode=online
+Totals: orders=2498 changed=0 created=0 updated=0 warnings=215 failures=0 retries=0
+-  [None]: orders=4 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- 3UK-CNS-Sustainability 2026 - Telco Cloud Core [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- 3UK-Demand Services Team - WP03 [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- 3UK-Lab Maintenance - WP04 [None]: orders=10 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- 3UK-Lannion Lab Maintenance [None]: orders=7 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- 3UK-RO-077 - Roaming FW Capacity Expansion [None]: orders=3 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- 3UK-RO-134 - Farnborough Pre-Prod Hardware Swap out [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- 3UK-Telco Cloud NVF transitioning to Clavister [None]: orders=6 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- 3rd Party Services [None]: orders=14 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- 5G EIR [None]: orders=9 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- 7750- MG [None]: orders=44 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- 8650 SDM [None]: orders=21 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- AAA [None]: orders=301 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- AAA Customization [None]: orders=3 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- ACF/IWF [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- AEP / ExP [None]: orders=30 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- AMF [None]: orders=7 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- AOR, SURE, NPM [None]: orders=9 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- AVA EE [None]: orders=5 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Ansible Playbooks Development and Delivery [None]: orders=15 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Automation [None]: orders=52 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- BMC (Broadcast Messaging Centre) [None]: orders=4 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- BQR (Business Query Repository) [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- BT UK [None]: orders=3 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CADM (Central Analytics and Data Management) [None]: orders=8 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CBAM [None]: orders=363 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CBAM,CBIS [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CBIS [None]: orders=769 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CBIS, NCS, CBAM, NCOM, NCD [None]: orders=26 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CBIS/NCS [None]: orders=7 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CBND/NCOM [None]: orders=26 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CFX-5000 [None]: orders=814 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CFX-5001 [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CFX-5002 [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CFX-5003 [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CFX-5004 [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CFX-5005 [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CFX-5006 [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CFX-5007 [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CFX-5008 [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CFX-5009 [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CFX-5010 [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CI [None]: orders=153 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CMG [None]: orders=3 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CMG (Cloud Mobile Gateway) [None]: orders=717 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CMG_CPC SGW_PGW [None]: orders=7 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CMM (Cloud Mobility Manager) [None]: orders=837 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CMM_AMF_MME_SGSN [None]: orders=6 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CNCS [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- CSD [None]: orders=1125 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Chorus [None]: orders=4 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Cloud Native Communication Suite (CNCS) - CSCF, TAS, A-SBC, MRF [None]: orders=153 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Cosmote NDL Ph2 [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Cust SW IWSF (IMS Web Security Function) [None]: orders=9 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Cust SW vMTK Virtual Migration tool [None]: orders=39 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Custom Application [None]: orders=28 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Custom Server [None]: orders=27 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Custom Solution [None]: orders=9 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Customer Insights (CI) Services [None]: orders=6 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Customization [None]: orders=9 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Cyberdome [None]: orders=7 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- DIGI BELGIUM [None]: orders=6 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- DIGI Romania [None]: orders=3 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- DRA [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- DVM  Deployment VM [None]: orders=11 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Data Products [None]: orders=55 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- EIR [None]: orders=356 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- ETL [None]: orders=23 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- ETL (Extract Transfer Load) [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Enea iNUM (ENUM) [None]: orders=6 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- FEE Servlet [None]: orders=8 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- FN Insight [None]: orders=20 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- FNI [None]: orders=57 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- FNI (HAL, ANA) [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- FO [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Flow One [FlowOne]: orders=4 changed=0 created(epics=0, stories=0) updated=0 warnings=0 failures=0
+- FlowOne [FlowOne]: orders=759 changed=0 created(epics=0, stories=0) updated=0 warnings=0 failures=0
+- FlowOne Services [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Flowone [FlowOne]: orders=296 changed=0 created(epics=0, stories=0) updated=0 warnings=0 failures=0
+- GS/CPC (Gold Standard/Configurable Parameter Customization) [None]: orders=15 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- GSAT (Gold Standard Audit Services) [None]: orders=29 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- GSCM (Gold Standard Config Management) [None]: orders=11 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Gold Standard Configuration Manager (GSCM) [None]: orders=32 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- HLR [None]: orders=167 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- HSM [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- HSMBox [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- HSS [None]: orders=1035 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- HSS-HLR [None]: orders=229 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- HT UDM manual testing [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- IIJ_CNF [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- INFRA [None]: orders=1154 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Incident Management [None]: orders=5 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- LE CMM (Cloud Mobility Manager) [None]: orders=4 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- MALS - NSR migration testing [None]: orders=16 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- MME [None]: orders=15 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- MMTEL [None]: orders=145 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- MMTel [None]: orders=9 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- MN Insights [None]: orders=40 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- MNI (CNI) [None]: orders=3 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- MNP [None]: orders=30 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- MSS [None]: orders=5 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Magyar [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Magyar Telekom [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Mediation [None]: orders=610 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NA-C [None]: orders=14 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NA-C/NA-F [None]: orders=6 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NA-F [None]: orders=13 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NA-F/NA-C [None]: orders=23 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NAC [None]: orders=386 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NACM [None]: orders=65 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NACandUiV [None]: orders=6 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NCC [None]: orders=902 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NCD [None]: orders=350 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NCLM [None]: orders=19 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NCM [None]: orders=18 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NCM, NCLM [None]: orders=25 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NCOM [None]: orders=739 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NCP [None]: orders=102 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NCS [None]: orders=945 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NDS [None]: orders=62 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NEDR [None]: orders=32 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NES, NEDR [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NIAM [NIAM]: orders=257 changed=0 created(epics=0, stories=0) updated=0 warnings=0 failures=0
+- NIAM, NACM [None]: orders=66 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NIAS [None]: orders=17 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NOKIA TAS MCS [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NORC [None]: orders=8 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NOrC [None]: orders=157 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NPC [None]: orders=24 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NPC plugin [None]: orders=13 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NSD [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NSMC [None]: orders=44 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NWR (Network Repository) [None]: orders=113 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NetGuard Cybersecurity Dome (NCYD) Services [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NetNumber Titan (ENUM/Ut-Proxy) [None]: orders=501 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Netnumber [None]: orders=136 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- NoRC [None]: orders=4 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Nokia Assurance Center (NAC) Services [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Nokia Converged Charging (NCC) Services [None]: orders=18 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Nokia Mediation Services [None]: orders=225 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Nokia NEF (NMP) [None]: orders=132 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Nokia NRD (NRF,NSSF) [None]: orders=132 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Nokia Policy Controller (NPC) [None]: orders=1541 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Nokia Policy Coroller (NPC) [None]: orders=179 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Nokia SMSF [None]: orders=78 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Nokia TAS [None]: orders=1106 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Nokia TAS BCS [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Nokia TAS MCS [None]: orders=12 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Norlys NLS [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Not Applicable [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Not Available [None]: orders=231 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- One EIR [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- One NDS [None]: orders=48 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- OneNDS [None]: orders=47 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- OneNDS+SDLPGw [None]: orders=22 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Open MGW [None]: orders=61 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Open MSS [None]: orders=436 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- PART [None]: orders=9 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- PART (SIM Pre-provisioning Audit and Re-Sync) [None]: orders=18 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- PARTS [None]: orders=7 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- PAS (Parameterized Audit Services) [None]: orders=26 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- PLF (PCRF Location Function) [None]: orders=9 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Presence [None]: orders=12 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- RadiSys MRF [None]: orders=48 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Radisys MRF [None]: orders=326 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- RadisysMRF [None]: orders=61 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Rakuten Disaster Roaming_S&SP [None]: orders=4 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Registers,HSS/HLR [None]: orders=51 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- RevuRight-CAS [None]: orders=4 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- SBC [None]: orders=485 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- SCP [None]: orders=3 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- SDL [None]: orders=367 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- SDL Custom [None]: orders=17 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- SDL-PGW [None]: orders=788 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- SDM [None]: orders=360 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- SI TS [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- SKY UK [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- SMSF [None]: orders=4 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Session Border Controller [Session Border Controller]: orders=1182 changed=0 created(epics=0, stories=0) updated=0 warnings=0 failures=0
+- Session Border Controller(SBC) [None]: orders=9 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Shared Data layer (UDR, UDSF) [None]: orders=79 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Sky UK 5G SA [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Spring2 Reloaded_OneNZ [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Subscriber Data  Bulk Migration Tool [None]: orders=353 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- SurePay [None]: orders=85 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Surepay [None]: orders=28 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Sustainability [None]: orders=16 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- TAF [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- TDG LOT1 KPI [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- TDG LOT3 [None]: orders=4 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- TDG_LOT2_Subscriber Counting Tool [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- TMO Audit Tool [None]: orders=7 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- TMO EIR TAC Tool [None]: orders=6 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- TMO MARS Tool [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- TMO Mars Tool [None]: orders=15 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- TPM [None]: orders=73 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Telemach [None]: orders=5 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Telenet [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Telia Phase2 [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Telia TAF/CCTF [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Testing Solution [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Testing Solutions [None]: orders=480 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- Traffica [None]: orders=19 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- UDM [None]: orders=698 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- UIV [None]: orders=436 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- VF DE Volte Consumer 24.7 [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- VF DE Volte Enterprise 24.7 [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- VF Italy [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- VF Italy MRF [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- VF Italy POSTE [None]: orders=1 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- VMR (Voice Mail Routing) [None]: orders=30 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- VoLTE [None]: orders=343 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- _Solution Level_ [None]: orders=152 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- ePDG [None]: orders=14 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- fCaaS [None]: orders=44 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- g [None]: orders=2 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- hss [None]: orders=4 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- na [None]: orders=25 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- sdl [None]: orders=10 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
+- udm [None]: orders=6 changed=0 created(epics=0, stories=0) updated=0 warnings=1 failures=0
