@@ -11,10 +11,14 @@ venv/
 # OS files
 .DS_Store
 
-# Env files / secrets
+# ===== SECRETS =====
 .env
 *.env.local
 *.env.*.local
+config/op_oauth_tokens.json
+config/basic_openproject_config.json
+config/working_openproject_config.json
+automation/smtp_config.env
 agent_v2/config/jira_oauth_tokens.json
 agent_v2/config/working_jira_config.json
 agent_v2/config/op_oauth_tokens.json
@@ -25,16 +29,39 @@ jira_oauth_tokens.json
 jira_agent_prototype/config/jira_oauth_tokens.json
 jira_agent_prototype/config/working_jira_config.json
 
-# Test artifacts
-.pytest_cache/
-
+# ===== DATA FILES =====
+*.xlsx
 work_packages.xlsx
 
-# Project artifacts and temp outputs
+# ===== RUNTIME/LOGS =====
+automation/logs/
+automation/uploads/
+reports/
+delta_apply_report*.json
+delta_apply_summary*.txt
+last_batch_id.txt
+
+# ===== ANALYSIS OUTPUT =====
+analysis/*_202*.xlsx
+analysis/comprehensive_dashboard_*.xlsx
+
+# ===== TEMP FILES =====
+check_status.py
+test_upload_api.py
+create_sample_from_real.py
+create_test_excel.py
+*_list.txt
+installed_packages.txt
+manual_test.*
+op_files.txt
+project_files_only.txt
+file_list.txt
+
+# ===== CACHE/BUILD =====
+.pytest_cache/
 artifacts/
 tmp_router/
 *.num
 tmp_*
 wp-jira-agent/wp_jira_agent.egg-info/
-*.xlsx
 src/wp-jira-agent

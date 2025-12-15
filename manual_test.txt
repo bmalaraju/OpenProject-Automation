@@ -1,2 +1,0 @@
-# Test Trigger
-Dummy content for testing file watcher.
